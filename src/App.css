@@ -1,0 +1,13 @@
+@font-face {
+font-family: 'Felt Tip Roman Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Felt Tip Roman Regular'), url('FeltTipRomRegular.woff') format('woff');
+}
+
+h1{
+	
+	font-family: 'Felt Tip Roman Regular';
+	font-size: 7rem;
+	color: white;
+}
